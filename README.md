@@ -1,6 +1,8 @@
 # docker-tubeup
 Docker container for Tubeup
 
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/etnguyen03/tubeup) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/etnguyen03/tubeup) ![Docker Pulls](https://img.shields.io/docker/pulls/etnguyen03/tubeup) 
+
 Environment variables:
 
 |Name|Value|
