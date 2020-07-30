@@ -14,7 +14,7 @@ Get both `S3ACCESS` and `S3SECRET` from [this page](https://archive.org/account/
 
 Example - if you're archiving [this video](https://www.youtube.com/watch?v=dQw4w9WgXcQ):
 
-    docker run -it -e "S3ACCESS={{ S3 ACCESS KEY HERE }}" -e "S3SECRET={{ S3 SECRET KEY HERE }}" etnguyen03/tubeup dQw4w9WgXcQ
+    docker run -it --rm -e "S3ACCESS={{ S3 ACCESS KEY HERE }}" -e "S3SECRET={{ S3 SECRET KEY HERE }}" etnguyen03/tubeup dQw4w9WgXcQ
 
 ---
 
