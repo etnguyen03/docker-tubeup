@@ -11,7 +11,7 @@ requests==2.24.0
 schema==0.7.2
 six==1.15.0
 total-ordering==0.1.0
-tqdm==4.48.0
+tqdm==4.48.2
 tubeup==0.0.19
 urllib3==1.25.10
 youtube-dl==2020.7.28
