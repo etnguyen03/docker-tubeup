@@ -8,5 +8,3 @@ RUN pip install -r /requirements.txt && \
     chmod +x /docker-entrypoint.sh
 
 ENTRYPOINT ["/docker-entrypoint.sh"]
-
-CMD ["tubeup"]
