@@ -13,5 +13,5 @@ six==1.15.0
 total-ordering==0.1.0
 tqdm==4.50.2
 tubeup==0.0.19
-urllib3==1.25.10
+urllib3==1.25.11
 youtube-dl==2020.9.20
