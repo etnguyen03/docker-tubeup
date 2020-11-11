@@ -14,4 +14,4 @@ total-ordering==0.1.0
 tqdm==4.51.0
 tubeup==0.0.20
 urllib3==1.25.11
-youtube-dlc==2020.11.7
+youtube-dlc==2020.11.11.post3
