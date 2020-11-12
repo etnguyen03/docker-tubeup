@@ -7,7 +7,7 @@ idna==2.10
 internetarchive==1.9.6
 jsonpatch==1.26
 jsonpointer==2.0
-requests==2.24.0
+requests==2.25.0
 schema==0.7.2
 six==1.15.0
 total-ordering==0.1.0
