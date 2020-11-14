@@ -1,7 +1,7 @@
 # docker-tubeup
 Docker container for Tubeup
 
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/etnguyen03/tubeup) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/etnguyen03/tubeup) ![Docker Pulls](https://img.shields.io/docker/pulls/etnguyen03/tubeup) 
+![Docker Build Status](https://github.com/etnguyen03/docker-tubeup/workflows/Docker/badge.svg) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/etnguyen03/tubeup) ![Docker Pulls](https://img.shields.io/docker/pulls/etnguyen03/tubeup) 
 
 Environment variables:
 
@@ -16,8 +16,6 @@ Example - if you're archiving [this video](https://www.youtube.com/watch?v=dQw4w
 
     docker run -it --rm -e "S3ACCESS={{ S3 ACCESS KEY HERE }}" -e "S3SECRET={{ S3 SECRET KEY HERE }}" etnguyen03/tubeup dQw4w9WgXcQ
 
----
-
 ## Listing of Files
 
 * `docker-entrypoint.sh`: entrypoint
@@ -26,7 +24,7 @@ Example - if you're archiving [this video](https://www.youtube.com/watch?v=dQw4w
 
 ---
 
-Copyright © 2020 Ethan Nguyen
+Copyright © 2020 Ethan Nguyen and contributors. All rights reserved.
 
 This program is free software: you can redistribute it and/or modify it under the terms
 of the GNU General Public License as published by the Free Software Foundation, either
