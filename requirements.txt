@@ -12,6 +12,6 @@ schema==0.7.2
 six==1.15.0
 total-ordering==0.1.0
 tqdm==4.56.0
-tubeup==0.0.20
+tubeup==0.0.21
 urllib3==1.26.2
 youtube-dlc==2020.11.11.post3
