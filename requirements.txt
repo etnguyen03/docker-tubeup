@@ -8,7 +8,7 @@ internetarchive==1.9.6
 jsonpatch==1.28
 jsonpointer==2.0
 requests==2.25.1
-schema==0.7.2
+schema==0.7.4
 six==1.15.0
 total-ordering==0.1.0
 tqdm==4.56.0
