@@ -12,6 +12,6 @@ schema==0.7.4
 six==1.15.0
 total-ordering==0.1.0
 tqdm==4.56.1
-tubeup==0.0.21
+tubeup==0.0.23
 urllib3==1.26.3
 youtube-dl==2021.2.4.1
