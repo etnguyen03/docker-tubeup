@@ -14,4 +14,4 @@ total-ordering==0.1.0
 tqdm==4.59.0
 tubeup==0.0.25
 urllib3==1.26.3
-youtube-dl==2021.3.3
+youtube-dl==2021.3.14
