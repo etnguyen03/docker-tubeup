@@ -16,6 +16,10 @@ Example - if you're archiving [this video](https://www.youtube.com/watch?v=dQw4w
 
     docker run -it --rm -e "S3ACCESS={{ S3 ACCESS KEY HERE }}" -e "S3SECRET={{ S3 SECRET KEY HERE }}" etnguyen03/tubeup dQw4w9WgXcQ
 
+If you need to bind-mount in a cookies file, you can do so too:
+
+    docker run -it --rm -e "S3ACCESS={{ S3 ACCESS KEY HERE }}" -e "S3SECRET={{ S3 SECRET KEY HERE }}" -v {{ ABSOLUTE PATH TO COOKIES FILE }}:/cookies.txt etnguyen03/tubeup dQw4w9WgXcQ --cookies /cookies.txt
+
 ## Listing of Files
 
 * `docker-entrypoint.sh`: entrypoint
