@@ -1,12 +1,15 @@
 backports.csv==1.0.7
 certifi==2021.5.30
 chardet==4.0.0
+charset-normalizer==2.0.6
 contextlib2==21.6.0
 docopt==0.6.2
 idna==3.2
 internetarchive==2.0.3
 jsonpatch==1.32
 jsonpointer==2.1
+mutagen==1.45.1
+pycryptodome==3.10.4
 requests==2.26.0
 schema==0.7.4
 six==1.16.0
@@ -14,4 +17,5 @@ total-ordering==0.1.0
 tqdm==4.62.3
 tubeup==0.0.27
 urllib3==1.26.7
-youtube-dl==2021.6.6
+websockets==10.0
+yt-dlp==2021.9.25
