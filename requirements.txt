@@ -17,5 +17,5 @@ total-ordering==0.1.0
 tqdm==4.62.3
 tubeup==0.0.27
 urllib3==1.26.7
-websockets==10.0
+websockets==10.1
 yt-dlp==2021.11.10.1
