@@ -11,7 +11,7 @@ jsonpointer==2.2
 mutagen==1.45.1
 pycryptodome==3.11.0
 requests==2.26.0
-schema==0.7.4
+schema==0.7.5
 six==1.16.0
 total-ordering==0.1.0
 tqdm==4.62.3
