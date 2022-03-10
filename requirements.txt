@@ -18,4 +18,4 @@ tqdm==4.63.0
 tubeup==0.0.27
 urllib3==1.26.8
 websockets==10.2
-yt-dlp==2022.2.4
+yt-dlp==2022.3.8.2
