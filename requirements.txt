@@ -14,5 +14,5 @@ schema==0.7.5
 tqdm==4.64.1
 tubeup==0.0.33
 urllib3==1.26.12
-websockets==10.3
+websockets==10.4
 yt-dlp==2022.10.4
