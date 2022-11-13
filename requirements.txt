@@ -12,7 +12,7 @@ pycryptodomex==3.15.0
 requests==2.28.1
 schema==0.7.5
 tqdm==4.64.1
-tubeup==0.0.33
+tubeup==0.0.34
 urllib3==1.26.12
-websockets==10.3
-yt-dlp==2022.10.4
+websockets==10.4
+yt-dlp==2022.11.11
