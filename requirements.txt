@@ -4,7 +4,7 @@ charset-normalizer==3.4.3
 contextlib2==21.6.0
 docopt==0.6.2
 idna==3.10
-internetarchive==5.5.0
+internetarchive==5.5.1
 jsonpatch==1.33
 jsonpointer==3.0.0
 mutagen==1.47.0
@@ -15,4 +15,4 @@ tqdm==4.67.1
 tubeup==2025.5.11
 urllib3==2.5.0
 websockets==12.0
-yt-dlp==2025.8.20
+yt-dlp==2025.9.5
